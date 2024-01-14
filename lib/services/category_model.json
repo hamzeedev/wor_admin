@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {
+            "name": "Bikes",
+            "subcategory": [
+                "Sports Bikes",
+                "Cruiser Bikes",
+                "Touring Bikes",
+                "Simple Bikes"
+            ]
+        },
+        {
+            "name": "Cars",
+            "subcategory": [
+                "Mini Cars",
+                "Sedan Cars",
+                "4x4 Jeeps",
+                "Luxary Cars"
+            ]
+        },
+        {
+            "name": "Buses",
+            "subcategory": [
+                "Coaster",
+                "Hi-Ace",
+                "Mini Bus",
+                "Long Bus"
+            ]
+        },
+        {
+            "name": "Trucks",
+            "subcategory": [
+                "Mazda Truck",
+                "Mini Truck",
+                "Simple Truck",
+                "22-Wheels Truck"
+            ]
+        },
+        {
+            "name": "Farm Vehicles",
+            "subcategory": [
+                "Seeder",
+                "Tractor",
+                "Harvestors",
+                "Rotator"
+            ]
+        },
+        {
+            "name": "Aircafts",
+            "subcategory": [
+                "Train Aircafts",
+                "Passengers Aircafts",
+                "Luxary Aircafts"
+            ]
+        }
+    ]
+}
